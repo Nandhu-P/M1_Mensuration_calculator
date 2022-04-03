@@ -9,3 +9,4 @@
 * [![Valgrind](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Valgrind.yml)
 * [![cppcheck-action](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/cppcheck.yml)
 * [![Contribution Check - Git Inspector](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/git_inspector.yml)
+* [![Unit testing](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/unit-test.yml)
