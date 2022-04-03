@@ -4,3 +4,4 @@
 * Codiga static code analysis ![codiga score](https://api.codiga.io/project/32539/score/svg)![codiga_badges](https://api.codiga.io/project/32539/status/svg)
 * Build [![C/C++ CI](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/c-cpp.yml)
 * [![Analysis](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Analysis.yml)
+* [![Build CI - Linux](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Build_Linux.yml)
