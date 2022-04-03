@@ -72,3 +72,11 @@ H_12  | volume of hallow cylinder| 5,3,1.8 | 332.337616  | 332.337616  | Require
 |  L_01       | H_01, H_04, H_05,H_06,H_07,H_09|Tested on functions which accept single value as input|  a |SUCCESS|SUCCESS |Technical |
 |  L_02       | H_02, H_03, H_08,H_10,|Tested on functions which accept two values as input|  a, b |SUCCESS|SUCCESS |Technical |
 |  L_03       | H_12 H_13 |Tested on function which accept three value as input|  a,b,c,  |SUCCESS|SUCCESS|Technical |
+## Output
+![output1](https://user-images.githubusercontent.com/102171569/161420908-3abf9959-5587-444c-af66-4aff0d103491.JPG)
+![output2](https://user-images.githubusercontent.com/102171569/161420915-fedc36d9-e777-4300-925a-923c36e3a5e1.JPG)
+![output3](https://user-images.githubusercontent.com/102171569/161420927-55fa8180-2b3d-48b0-98c0-cf7e07c279f3.JPG)
+
+
+
+
