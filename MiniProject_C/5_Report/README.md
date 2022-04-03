@@ -35,3 +35,17 @@
 * Solve problems contain large numbers.
 ## THREATS:
 * Security issues.
+# Design
+* Structural diagram
+* Behavioural diagram
+ ![structural diagram](https://user-images.githubusercontent.com/102171569/161420674-b2d57065-3111-401d-bac8-6a982a3a6748.JPG)
+ ![Behavioural diagram](https://user-images.githubusercontent.com/102171569/161420681-cf4f1137-b6f0-4d7e-9d14-596df54a9cb0.JPG)
+## Implementation
+## Folder Structure
+Folder        | description
+--------------| ----------------------------------------------
+`inc`         | All header files
+`src`         | Main source code for Calculator operations
+`test`        | All source code and data for testing purposes
+`unity`       | Unity files
+## Test Plan
