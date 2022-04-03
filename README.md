@@ -6,3 +6,4 @@
 * [![Analysis](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Analysis.yml)
 * [![Build CI - Linux](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Build_Linux.yml)
 * [![Build CI - Windows](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Build_Windows.yml)
+* [![Valgrind](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Nandhu-P/M1_Mensuration_calculator/actions/workflows/Valgrind.yml)
